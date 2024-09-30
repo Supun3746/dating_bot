@@ -1,0 +1,6 @@
+.env
+users/
+test.py
+sqlite3.db
+antelopev2/
+__pycache__/
